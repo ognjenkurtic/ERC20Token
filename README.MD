@@ -1,4 +1,4 @@
-# Project Title
+# Z Fucks Given Token
 
 Z_FUCK, a ERC20 compatible token
 
